@@ -24,11 +24,11 @@ cloning this repository or downloading the .zip file from the
 
 3. Go to your X-Cart administration. Settings -&gt; Payment Methods -&gt; Payment Gateways. Select `All Countries`, select `Coinzone` for payment gateway & click [Add]
 
-4. Go to Payment methods, find "Coinzone" & click [Configure].
+4. Go to Payment methods, find `Coinzone` & click [Configure].
 
 5. Fill in your Client Code and API Key. They can be found on the API tab of the Settings page in the [Coinzone Control Panel](https://merchant.coinzone.com/settings#apiTab). Also set the currency your store uses.
 
-6. Go to  Settings -&gt; Payment Methods, find `Coinzone` and check to enable the payment followeb by [Apply Changes].
+6. Go to  Settings -&gt; Payment Methods, find `Coinzone` and check to enable the payment followed by [Apply Changes].
 
 7. Don't have a Coinzone account? [Sign up for free](https://merchant.coinzone.com/signup?source=xcartgold)
 
